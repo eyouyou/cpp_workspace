@@ -1,0 +1,11 @@
+{
+  "name": "xxx",
+  "version": "0.0.1",
+  "description": "xxx workspace template",
+  "dependencies": [
+    "gtest",
+    {
+      "name": "libodb-sqlite"
+    }
+  ]
+}
